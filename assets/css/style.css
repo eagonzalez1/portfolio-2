@@ -680,6 +680,18 @@ section {
   padding: 0;
 }
 
+.portfolio-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
