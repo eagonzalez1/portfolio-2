@@ -1,4 +1,4 @@
-# Eduardo Gonzalez - Professional Portfolio
+Eduardo Gonzalez - Professional Portfolio
 
 Deployed Site:
 http://ea-gonzalez.com/
